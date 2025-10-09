@@ -1,4 +1,8 @@
 # 물류 자동화를 위한 로봇 FMS
+| 👑 최정민 | 김희진 | 남선우 |
+|:-------:|:----:|:-----:|
+|<img src="https://avatars.githubusercontent.com/u/89333351?v=4" width="100px" />| <img src="https://avatars.githubusercontent.com/u/108065505?v=4" width="100px" />| <img src="https://avatars.githubusercontent.com/u/74304338?v=4" width="100px" />|
+| [@likerhythm](https://github.com/likerhythm) | [@heejjinkim](https://github.com/heejjinkim) | [@seonwoonam](https://github.com/seonwoonam) |
 
 ## 개발 필요성
 - 아마존, 알리익스프레스 등 글로벌 이커머스 기업이 로봇 FMS를 사용한 물류 자동화 기술을 선도하고 있습니다
